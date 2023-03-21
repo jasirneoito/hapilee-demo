@@ -295,7 +295,7 @@ export default function ProjectList() {
                     </svg>
                   </div>
                 </div>
-                <div className=" w-4/6 text-gray-600 font-normal text-xs">
+                <div className=" w-5/6 text-gray-600 font-normal text-xs">
                   <span className="flex w-full justify-between mt-2">
                     <p className="w-1/2">Created on :</p>
                     <p className="w-1/2 uppercase">
